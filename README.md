@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/luffy.gif" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/main/luffy.gif" />
 
 ###
 
