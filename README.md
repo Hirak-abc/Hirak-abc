@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/main/snake.yml" alt="Snake animation" />
 
 ###
