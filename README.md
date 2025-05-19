@@ -47,6 +47,8 @@
 
 ###
 
+<p align="left">🤝 Feel free to connect with me on the platforms below!</p>
+
 <div align="left">
   <a href="https://www.instagram.com/hirak.__/?hl=en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo">
@@ -63,6 +65,7 @@
 </div>
 
 ###
+
 
 <br clear="both">
 
