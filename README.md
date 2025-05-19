@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Hirak Nath, a sophomore at Sitare University, Lucknow.</h2>
-<p align="left">I'm passionate about solving problems and currently on a journey to learn how to build apps that make everyday life easier.</p>
+<p align="left">I'm passionate about solving problems and currently I am on a journey to learn how to build apps that make everyday life easier.</p>
 
 ###
 
