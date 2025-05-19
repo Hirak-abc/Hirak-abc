@@ -70,8 +70,8 @@
 </div>
 
 ###
-### 🏅 GitHub Achievements & Stickers  
-Take a look at the cool badges I've earned on GitHub! 👉 [My Achievements](https://github.com/users/Hirak-abc/achievements)
+ 
+🏅Take a look at the cool badges I've earned on GitHub! 👉 [My Achievements](https://github.com/users/Hirak-abc/achievements)
 
 
 <br clear="both">
