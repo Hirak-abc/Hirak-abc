@@ -16,9 +16,10 @@
 ###
 
 <!-- GitHub Trophies -->
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hirak-abc&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="github trophies" />
-</div>
+</p>
+
 
 ###
 
