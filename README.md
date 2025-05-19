@@ -20,6 +20,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hirak-abc&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="github trophies" />
 </p>
 
+### 🏅 GitHub Achievements & Stickers  
+Take a look at the cool badges I've earned on GitHub! 👉 [My Achievements](https://github.com/users/Hirak-abc/achievements)
 
 ###
 
