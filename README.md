@@ -73,6 +73,10 @@
  
 🏅Take a look at the cool badges I've earned on GitHub! 👉 [My Achievements](https://github.com/users/Hirak-abc/achievements)
 
+<!-- 🎖️ Holopin Badge Board: Below is a visual strip of my Holopin badges. -->
+
+[![An image of @hirakabc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hirakabc)](https://holopin.io/@hirakabc)
+
 
 <br clear="both">
 
