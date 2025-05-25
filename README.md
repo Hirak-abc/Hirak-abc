@@ -85,6 +85,11 @@
   <img src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/output/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/hirak__?theme=transparent&ext=heatmap&font=baloo" alt="LeetCode Stats"/>
+</div>
+
+
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirak-abc&theme=dracula&hide_border=true" alt="GitHub Streak" />
