@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Hirak Nath, a sophomore at Sitare University, Lucknow.</h2>
+<h2 align="center">Hi 👋! I'm Hirak Nath, a sophomore at Sitare University, Lucknow</h2>
 
 ###
 
