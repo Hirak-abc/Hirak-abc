@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! I'm Hirak Nath, a sophomore at Sitare University, Lucknow.</h2>
-<h3 align="left">I write code. Sometimes it even works.</h3>
 
 ###
 
