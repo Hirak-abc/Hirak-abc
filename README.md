@@ -20,7 +20,7 @@
 </p>
 
 ###
-<!--
+
 <img align="right" height="130" src="https://raw.githubusercontent.com/Hirak-abc/Hirak-abc/main/luffy.gif" />
 
 ###
@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
--->
+
 ###
 
 <p align="left">🤝 Feel free to connect with me on the platforms below!</p>
